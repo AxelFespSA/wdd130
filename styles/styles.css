@@ -7,7 +7,7 @@ main img{
     height: auto;
     border: #e6dcdc;
     padding: 2px;
-    box-shadow: #1c1a1a;
+    box-shadow: 4px 4px 8px #1c1a1a;
 }
 
 aside{
