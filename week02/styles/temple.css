@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header, footer{
+    background-color: slategray;
+    color: azure;
+    padding: 10px;
+    text-align: center;
+    font-size: 1.7rem; 
+}
+
+main{
+    width: 400px;
+    margin: 0 auto;
+}
+
+h1{
+    margin: 10px;
+    text-align: center;
+}
+
+h2{
+    border-bottom: 1.3px solid black;
+}
+
+img{
+    width: 100%;
+    height: auto;
+    box-shadow: 0 5px 30px #86acd0f5;
+}
+
+section{
+    margin: 20px 0;
+    border: 1px solid rgb(0 0 0 / 9%); 
+    padding: 10px;
+    background-color: rgb(170, 187, 204);
+    font-size: 1rem;
+}
+
+section p{
+    margin: 13px;
+}
+
+ul{
+    margin: 10px 20px 0 20px;
+}
+
+footer{
+    font-size: .90rem;
+}
