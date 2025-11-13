@@ -3,22 +3,25 @@ main{
 }
 
 main img{
-    width: 150px;
+    width: 200px;
     height: auto;
+    border: #e6dcdc;
+    padding: auto;
+    box-shadow: #111111;
 }
 
 aside{
-    width: 12rem;
+    width: 15rem;
     margin: 1rem;
     border: 2px solid rgba(248, 250, 250, 0.887) (150 204 207/ 0.2); 
-    padding: 0.8rem;
+    padding: 1rem;
     background-color: #7ebacb;
     color: rgb(30, 29, 29);
     text-align: center;
 }
 
 aside img{
-    width: 182px;
+    width: 200px;
     height: auto;
 }
 
