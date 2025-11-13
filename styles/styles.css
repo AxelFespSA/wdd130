@@ -6,8 +6,8 @@ main img{
     width: 200px;
     height: auto;
     border: #e6dcdc;
-    padding: auto;
-    box-shadow: #111111;
+    padding: 2px;
+    box-shadow: #1c1a1a;
 }
 
 aside{
