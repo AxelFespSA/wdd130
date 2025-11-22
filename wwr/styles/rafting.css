@@ -1,5 +1,5 @@
 :root{
-    --primary-color: #56960d; 
+    --primary-color: #305307; 
     --secondary-color: #923e1d; 
     --accent1-color: #104880;
     --accent2-color: #99b2cc;
@@ -21,7 +21,8 @@ color: var(--accent2-color);
 
 body{
     font-family: var(--body-font);
-    color: var(--accent1-color)
+    color: var(--accent1-color);
+    background-color: #fff;
 }
 
 header, main, footer {
