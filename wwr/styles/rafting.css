@@ -1,5 +1,5 @@
 :root{
-    --primary-color: #305307; 
+    --primary-color: #56960d; 
     --secondary-color: #923e1d; 
     --accent1-color: #104880;
     --accent2-color: #99b2cc;
@@ -61,7 +61,7 @@ h1 {
     text-align: center;
     opacity: 0.7;
     background-color: var(--secondary-color);
-    color: #c4bbbb; 
+    color: #f8f7f7; 
 }
 
 .hero article img {
