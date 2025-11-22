@@ -1,8 +1,8 @@
 :root{
     --primary-color: #305307; 
     --secondary-color: #923e1d; 
-    --accent1-color: #3585d4;
-    --accent2-color: #eaecee;
+    --accent1-color: #104880;
+    --accent2-color: #99b2cc;
     --heading-font: "Abril Fatface", "Georgia", serif;
     --body-font: Quattrocento Sans;
 }
@@ -61,7 +61,7 @@ h1 {
     text-align: center;
     opacity: 0.7;
     background-color: var(--secondary-color);
-    color: #fff; 
+    color: #c4bbbb; 
 }
 
 .hero article img {
