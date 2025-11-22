@@ -8,9 +8,9 @@
 }
 
 * {    /*general*/
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+margin: 0;
+padding: 0;
+box-sizing: border-box;
 }
 
 header {
@@ -62,7 +62,8 @@ h1 {
     color: #fff; 
 }
 
-.hero article img {
+.hero article {
     float: right;
     width: 125px;
+    position: absolute;
 }
