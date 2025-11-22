@@ -69,3 +69,7 @@ h1 {
     width: 125px;
     position: absolute;
 }
+.hero article {
+    position: absolute;
+    color: white;
+}
