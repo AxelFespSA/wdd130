@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic quiz</title>
+    <link rel="stylesheet" href="styles/quiz.css">
+</head>
+
+<body>
+    <main>
+        <h1> Basic HTML and CSS quiz</h1>
+
+        <form action="#" method="post" id="html-css-quiz">
+
+            <div class="question">
+                <label for="q1">1. The element that defines a paragraph in HTML is <em>_____</em></label>
+                <input type="text" id="q1" name="q1" required>
+            </div>
+
+            <div class="question">
+                <label for="q2">2. Briefly explain what the CSS property does <code>display: flex</code></label>
+                <textarea id="q2" name="q2" rows="4" required></textarea>
+            </div>
+
+            <div class="question">
+                <label for="q3">3. ¿Which of the following tags is used to include an external style sheet?</label>
+                <select id="q3" name="q3" required>
+                    <option value="" selected disabled>Choice a option ...</option>
+                    <option value="link">&lt;link&gt;</option>
+                    <option value="style">&lt;style&gt;</option>
+                    <option value="script">&lt;script&gt;</option>
+                </select>
+            </div>
+
+            <div class="question">
+                <label for="q4">4. ¿How many tags <code>&lt;h1&gt; - &lt;h6&gt;</code> are in total? (Answer)</label>
+                <input type="number" id="q4" name="q4" min="1" max="6" required>
+            </div>
+
+            <div class="actions">
+                <button type="submit">Submit Quiz</button>
+            </div>
+        </form>
+    </main>
+</body>
+
+</html>
